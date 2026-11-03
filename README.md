@@ -3,7 +3,7 @@
 학부모를 위한 솔루션 모음 — 마이멜로(My Mallow) 원페이지 허브.
 
 - **Live (목표):** https://mymallow.cloud/
-- **Contact:** MyMallow.Cloud@gmail.com
+- **Contact:** contact@mymallow.cloud
 - **Stack:** Vite static site → GitHub Pages (`base: '/'`) + CNAME `mymallow.cloud`
 
 ## Local
