@@ -1,6 +1,6 @@
 # My Mallow Hub (`mymallow.cloud`)
 
-학부모를 위한 솔루션 모음 — 마이멜로(My Mallow) 원페이지 허브.
+아이와 부모의 하루를 조금 더 가볍게 두는 브랜드 홈. 각 제품은 자기 이름과 자기 주소로 열리고, 이 사이트는 그 문을 보여 줍니다.
 
 - **Live (목표):** https://mymallow.cloud/
 - **Contact:** contact@mymallow.cloud
@@ -45,10 +45,10 @@ Optional www:
 
 TTL: 300–600s while verifying, then raise.
 
-## Services on the hub
+## Products
 
-| Card | Status | Link |
-|------|--------|------|
-| 닌텐도 키즈 추천 | Live | https://kidgame.mymallow.cloud/ |
-| 시간표 생성기 | Coming Soon | — |
-| 그림일기 아이디어 | Coming Soon | — |
+| Product | Status | Link |
+|---------|--------|------|
+| 우리 아이 닌텐도 Guide | Live | https://kidgame.mymallow.cloud/ |
+| 시간표 생성기 | 곧 만나요 | — |
+| 그림일기 아이디어 | 곧 만나요 | — |
