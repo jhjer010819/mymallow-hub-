@@ -1,6 +1,6 @@
 # My Mallow Hub (`mymallow.cloud`)
 
-아이와 부모의 하루를 조금 더 가볍게 두는 브랜드 홈. 각 제품은 자기 이름과 자기 주소로 열리고, 이 사이트는 그 문을 보여 줍니다.
+아이와 부모의 하루를 가볍게 돕는 조력자, 마이멜로. 각 제품은 자기 이름과 자기 주소로 열리고, 이 사이트는 그 문을 보여 줍니다.
 
 - **Live (목표):** https://mymallow.cloud/
 - **Contact:** contact@mymallow.cloud
