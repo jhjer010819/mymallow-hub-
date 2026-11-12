@@ -51,4 +51,6 @@ TTL: 300–600s while verifying, then raise.
 |---------|--------|------|
 | 우리 아이 닌텐도 Guide | Live | https://kidgame.mymallow.cloud/ |
 | 초등 시간표 | 곧 만나요 | — |
-| 그림일기 아이디어 | 곧 만나요 | — |
+| Mallow Info Lab | Live | https://blog.mymallow.cloud/ |
+| 교외체험학습 문장 메이커 | Live | https://fieldtrip.mymallow.cloud/ |
+| 타로 | Live | https://taro.mymallow.cloud/ |
